@@ -1,7 +1,4 @@
-// Contact form functionality - akan diperbaiki nanti
-// Form email sementara dihilangkan
 
-// Animate skill bars on scroll
 const barObserver = new IntersectionObserver((entries) => {
   entries.forEach(entry => {
     if (entry.isIntersecting) {
